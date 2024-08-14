@@ -2,7 +2,7 @@
 
 Welcome to the Tic-Tac-Toe game! This project is a simple implementation of the classic game using HTML, CSS, and JavaScript.
 
-(![Screenshot (83)](![Screenshot (84)](https://github.com/user-attachments/assets/d5740c40-a640-4c43-b43b-af50d1e4ea69))
+(![Screenshot (84)](https://github.com/user-attachments/assets/d5740c40-a640-4c43-b43b-af50d1e4ea69))
 
 ## Table of Contents
 
