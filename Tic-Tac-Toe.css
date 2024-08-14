@@ -1,0 +1,103 @@
+body,html {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2CB2AC;
+    margin: 0;
+
+   
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+}
+
+.grid-container button {
+    width: 100px;
+    height: 100px;
+    background-color: #2CB2AC; /* Same as the background color */
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+/* Add borders to simulate the grid lines */
+.grid-container button:nth-child(-n+6) { /* For the first two rows */
+    border-bottom: 5px solid black;
+}
+
+.grid-container button:nth-child(3n+1), /* For the first column */
+.grid-container button:nth-child(3n+2) { /* For the second column */
+    border-right: 5px solid black;
+}
+
+.grid-container button:focus {
+    background-color: #1F8E8A;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border: none;
+    font-size: 8vmin;
+}
+#reset-btn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color:  white;
+    color: #1F8E8A;
+    border-radius: 1rem;
+    border: none;
+    width: 100%;
+  }
+
+  .msg-container {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+  }
+
+  #msg {
+    color: #ffffc7;
+    font-size: 5vmin;
+  }
+  
+  .msg-container {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+  }
+  
+  .hide {
+    display: none;
+  }
+
+p {
+    margin-top: 20px;
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    color: #595959;
+}
