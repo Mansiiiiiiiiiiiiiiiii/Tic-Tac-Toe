@@ -6,11 +6,11 @@ Welcome to the Tic-Tac-Toe game! This project is a simple implementation of the 
 
 ## Table of Contents
 
-- [Overview](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
-- [Features](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
-- [Technologies Used](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
-- [How to Play](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
-- [Setup](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
+- [Overview](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe?tab=readme-ov-file#overview)
+- [Features](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe?tab=readme-ov-file#features)
+- [Technologies Used](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe?tab=readme-ov-file#technologies-used)
+- [How to Play](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe?tab=readme-ov-file#how-to-play)
+- [Setup](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe?tab=readme-ov-file#setup)
 
 ## Overview
 
